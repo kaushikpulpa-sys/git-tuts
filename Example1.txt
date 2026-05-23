@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Example next version. Dev1
+=======
 Example next version. Hi
+>>>>>>> origin/master
